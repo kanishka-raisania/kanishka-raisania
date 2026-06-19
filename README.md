@@ -56,9 +56,11 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h2 align="center">📊GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kanishka-raisania&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishka-raisania&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" height="200"/>
 </p>
 
 ## LeetCode Stats
