@@ -11,8 +11,6 @@
 - Final-year Computer Science student at NSUT Delhi (B.Tech, 2026), with experience across backend engineering, full-stack development, and machine learning.
 - Currently interning at **SalarySe** (fintech) — working on production backend systems with Java and Spring Boot, voice AI automation pipelines, and internal tooling for operations teams.
 - Previously at **Waygood EdTech** and **Newgen Software** — built end-to-end ML pipelines, MERN analytics dashboards, and data systems across varied problem domains.
-- Rated **Knight on LeetCode (1870+)** with 1500+ problems solved across LeetCode, GeeksForGeeks, and CodingNinjas.
-- Semi-finalist at **Flipkart GRiD 2025** — top 0.1% among 160,000+ participants nationwide.
 
   </td>
     <td width="20%">
